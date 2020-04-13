@@ -2,7 +2,7 @@
 
 自己根据平常写词经验整理出来的中文押韵表
 
-根据押韵表制作出来的网站项目：[中文押韵网站]("https://github.com/Jezemy/ChineseRhymePhraseSearch")
+根据押韵表制作出来的网站项目：[中文押韵网站](https://github.com/Jezemy/ChineseRhymePhraseSearch)
 
 
 | 押韵类别序号  | 押韵的韵母  | 押韵的声母 | 举例 |
