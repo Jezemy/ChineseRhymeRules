@@ -23,7 +23,7 @@
 | 14 | in ing   | 所有 | 青，进|
 | 15 | ian **uan**   | 韵母uan：j，q，x，y ；韵母ian：所有| 连，全|
 | 16 | **un**   | j，q，x，y | 军，群，寻，韵|
-| 17 | en **eng** **un**   | 韵母un：除了j，q，x，y以外；eng除了部分字以外 | 陈，乘，纯|
+| 17 | en **eng** **un**   | 韵母un：除了j，q，x，y以外；韵母eng：部分字 | 陈，乘，纯|
 | 18 | ong iong **eng**   | 韵母ong和iong：所有，韵母eng：部分字|从，穷，梦，封|
 | 19 | ang an uang iang **uan**   | 韵母uan：除了j，q，x，y以外，其他韵母：所有 | 长，江，川，强，团|
 
