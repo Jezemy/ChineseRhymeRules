@@ -21,11 +21,12 @@
 | 12 | ou iu   | 所有 | 走，求|
 | 13 | ao iao   | 所有 | 跑，翘|
 | 14 | in ing   | 所有 | 青，进|
-| 15 | ian **uan**   | 韵母uan：j，q，x，y ；韵母ian：所有| 连，全|
+| 15 | ian **uan**  **an** | 韵母uan：j，q，x，y ；韵母an：y；韵母ian：所有| 连，全|
 | 16 | **un**   | j，q，x，y | 军，群，寻，韵|
 | 17 | en **eng** **un**   | 韵母un：除了j，q，x，y以外；韵母eng：部分字 | 陈，乘，纯|
 | 18 | ong iong **eng**   | 韵母ong和iong：所有，韵母eng：部分字|从，穷，梦，封|
-| 19 | ang an uang iang **uan**   | 韵母uan：除了j，q，x，y以外，其他韵母：所有 | 长，江，川，强，团|
+| 19 | ang **an** uang iang **uan**   | 韵母uan：除了j，q，x，y以外，韵母an：除了y以外，其他韵母：所有 | 长，江，川，强，团|
+
 
 
 注：
